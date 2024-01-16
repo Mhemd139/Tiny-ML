@@ -7,10 +7,10 @@ import time
 i = 0
 
 for i in range(50):
-    category = "off"
-    filename = 'off_' + str(i)
+    category = "green"
+    filename = 'green_' + str(i)
     duration = 1  # seconds
-    fs = 22050  # samples per second
+    fs = 44100  # samples per second
     print("Speak now ->" , category)
     audio_rec = sd.rec(int(duration * fs), samplerate=fs, channels=1)
     sd.wait()
