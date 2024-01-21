@@ -32,14 +32,10 @@ Note: This repo contains step by step approach to teach different things to stud
 
 ---
 ## Features
-- **Non Linear Trignometric Approximation**
-    - ![alt text](https://github.com/Zaheer505/Deep-learning-using-Tensorflow-Lite-on-Raspberry-Pi/blob/main/images/sign_function.gif)
 - **Real Time Number Detection**
-    - ![alt text](https://github.com/Zaheer505/Deep-learning-using-Tensorflow-Lite-on-Raspberry-Pi/blob/main/images/vc_extraction.gif)
+    - ![alt text](https://github.com/vagabond139/Tiny-ML/blob/main/Number%20detection.gif)
 - **Visual Calculator Equation Solving**
-    - ![alt text](https://github.com/Zaheer505/Deep-learning-using-Tensorflow-Lite-on-Raspberry-Pi/blob/main/images/vc_equation.gif)
-- **Voice Controlled LEDs**
-    - ![alt text](https://github.com/Zaheer505/Deep-learning-using-Tensorflow-Lite-on-Raspberry-Pi/blob/main/images/voice_control.gif)
+    - ![alt text](https://github.com/vagabond139/Tiny-ML/blob/main/Equation.gif)
 ---
 ## Installations
 - Laptop/PC Installations
