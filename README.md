@@ -6,13 +6,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#About-this-Repository">About This Repository</a></li>
-    <li><a href="#Features">Features</a></li>
     <li><a href="#Installations">Installations</a></li>
     <li><a href="#Using-this-Repository">Using this Repository</a></li>
     <li><a href="#Pre-Course-Requirments">Pre-Course Requirments</a></li>
-    <li><a href="#Link-to-the-Course">Link to the Course</a></li>
     <li><a href="#Instructors">Instructors</a></li>
-    <li><a href="#License">License</a></li>
   </ol>
 </details>
 
@@ -30,13 +27,7 @@ This course is focused on Embedded Deep learning in Python . Raspberry PI 4 is u
 
 Note: This repo contains step by step approach to teach different things to students of our course. You may find some raw data / codes which are meant for learning purposes of students.
 
----
-## Features
-- **Real Time Number Detection**
-    - ![alt text](https://github.com/vagabond139/Tiny-ML/blob/main/Number%20detection.gif)
-- **Visual Calculator Equation Solving**
-    - ![alt text](https://github.com/vagabond139/Tiny-ML/blob/main/Equation.gif)
----
+
 ## Installations
 - Laptop/PC Installations
     - Rpi-Imager for installing RPI OS on SD CARD
@@ -82,19 +73,11 @@ Note: This repo contains step by step approach to teach different things to stud
         ```
 ----
 ## Using Repository
-- Obtain the code using Git
-    ```
-    git clone https://github.com/Zaheer505/Tiny-ML --single-branch development
-    ```
 - SSH into your RPI
     ```
     ssh pi@<IP_of_RPI>
     ```
-- Turn on the Tightvnc Server to enable screen sharing
-    ```
-    tightvncserver :1
-    ```
-- Access RPI through VNC-Viwer on PC
+- Access RPI through TeamViewer on PC
 ---
 ## Pre-Course Requirments
 - PC   : Ubuntu 22.04
@@ -105,17 +88,9 @@ Note: This repo contains step by step approach to teach different things to stud
     - 3D printed Parts for Camera Holding
     - Fan on RPI for better thermals
 
-## Link to the Course
-If you want to take video lecture explaination of how this repository is built . You can check out this course .
-**[[Discounted Link]](https://www.udemy.com/course/deep-learning-using-tensorflow-lite-on-raspberry-pi/?couponCode=LAUNCH)**
-
-----
 
 ## Instructors
 Muhammad Luqman - [Profile Link](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/)
 Zaheer Ahmed - [Profile Link](https://www.linkedin.com/in/zaheer-ahmed505/)
 
 ----
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
