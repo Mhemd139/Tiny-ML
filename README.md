@@ -79,6 +79,10 @@ Note: This repo contains step by step approach to teach different things to stud
     ```
 - Access RPI through TeamViewer on PC
 ---
+
+![Equation GIF Demo](https://github.com/Mhemd139/Tiny-ML/blob/main/Number.gif)
+
+
 ![Equation GIF Demo](https://github.com/Mhemd139/Tiny-ML/raw/main/Equation.gif)
 
 ## Pre-Course Requirments
