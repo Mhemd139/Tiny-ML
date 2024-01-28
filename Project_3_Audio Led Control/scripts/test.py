@@ -19,7 +19,7 @@ def logger(variable_name, variable_value):
 
 def main():
     labels = ['green', 'off', 'on', 'red']
-    wav_file_path = 'data/off/off_0.wav'
+    wav_file_path = 'data/green/green_0.wav'
 
     fs, audio_rec = wavfile.read(wav_file_path)
     audio_rec = audio_rec.astype(np.int16)
