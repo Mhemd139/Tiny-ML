@@ -74,14 +74,6 @@ Note: This repo contains step by step approach to teach different things to stud
 
 ![Equation GIF Demo](https://github.com/Mhemd139/Tiny-ML/raw/main/Equation.gif)
 
-## Pre-Course Requirments
-- PC   : Ubuntu 22.04
-- RPI4 : RPI Full OS
-    - SD-CARD 16GB
-    - RPI Camera V2
-    - Power Bank with Type C cable
-    - 3D printed Parts for Camera Holding
-    - Fan on RPI for better thermals
 
 
 ## Instructors
