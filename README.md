@@ -2,17 +2,6 @@
 
 ![alt text](https://github.com/Zaheer505/Deep-learning-using-Tensorflow-Lite-on-Raspberry-Pi/blob/main/images/thumbnail.png)
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#About-this-Repository">About This Repository</a></li>
-    <li><a href="#Installations">Installations</a></li>
-    <li><a href="#Using-this-Repository">Using this Repository</a></li>
-    <li><a href="#Pre-Course-Requirments">Pre-Course Requirments</a></li>
-    <li><a href="#Instructors">Instructors</a></li>
-  </ol>
-</details>
-
 
 ## About this Repository
 This course is focused on Embedded Deep learning in Python . Raspberry PI 4 is utilized as a main hardware and we will be building practical projects with custom data .
