@@ -74,10 +74,3 @@ Note: This repo contains step by step approach to teach different things to stud
 
 ![Equation GIF Demo](https://github.com/Mhemd139/Tiny-ML/raw/main/Equation.gif)
 
-
-
-## Instructors
-Muhammad Luqman - [Profile Link](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/)
-Zaheer Ahmed - [Profile Link](https://www.linkedin.com/in/zaheer-ahmed505/)
-
-----
